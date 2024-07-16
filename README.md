@@ -1,4 +1,4 @@
-# [Jókai Villa](https://lebryere.github.io/Hello-balcsi/)
+# [Hello Balcsi Tihanya](https://lebryere.github.io/Hello-balcsi/)
 
 ## Browser Support
 
@@ -31,6 +31,13 @@ The inspiration for the site comes from the Hello Balcsi.
 @import "preloader";
 @import "toTop";
 @import "animations";
+
+$bgDesignHSL: hsl(233, 25%, 5%);
+$design: #b97824;
+:root {
+   @for $i from 80 through 20 {
+      @if $i % 20==0 {
+         $percentage: $i * 1%;
 ```
 
 ## Copyright and License

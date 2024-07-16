@@ -1,4 +1,4 @@
-# [Hello Balcsi Tihanya](https://lebryere.github.io/Hello-balcsi/)
+# [Hello Balcsi Tihany](https://lebryere.github.io/Hello-balcsi/)
 
 ## Browser Support
 
